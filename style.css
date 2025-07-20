@@ -116,7 +116,6 @@
     gap: 50px;
     margin-top: 60px;
     margin-bottom: 60px;
-    height: 100px;
     align-items: center;
     justify-content: center;
     padding: 0 30px;
@@ -216,12 +215,4 @@
     .banner-left-title {
         font-size: 1.75rem;
     }
-
-    .logo-container {
-        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    }
-
-    /* .popular-collection-title {
-        margin-top: 150px;
-    } */
 }
